@@ -1,6 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://sandship-theorycrafters.github.io/"
 languageCode = "en-us"
-title = "Sandship Theorycrafting"
+title = "Sandship Theorycrafters"
 theme = "learn"
 [outputs]
 home = ["HTML","RSS","JSON"]
+[params]
+themeVariant = "red"
