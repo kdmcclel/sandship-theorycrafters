@@ -11,6 +11,7 @@ deploy:
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
     local_dir: public
+    target_branch: master
     repo: sandship-theorycrafters/sandship-theorycrafters.github.io
     on:
       branch: master
