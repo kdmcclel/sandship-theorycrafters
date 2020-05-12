@@ -1,6 +1,5 @@
 +++
 title = "Contributors"
-pre = "<i class='fab fa-github'></i>"
 +++
 
 1. SharkyTheWhale

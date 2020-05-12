@@ -10,6 +10,15 @@ home = ["HTML","RSS","JSON"]
 themeVariant = "red"
 
 [[menu.shortcuts]] 
+name = "Data"
+url = "/data"
+weight = 10
+
+
+[[menu.shortcuts]] 
 name = "<i class='fas fa-users'></i> Contributors"
 url = "/contributors"
-weight = 10
+weight = 11
+
+[markup.goldmark.renderer]
+unsafe= true
