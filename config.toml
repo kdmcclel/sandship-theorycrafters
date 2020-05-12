@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Sandship Theorycrafting"
-theme = "hugo-theme-learn"
+theme = "learn"
 [outputs]
 home = ["HTML","RSS","JSON"]
